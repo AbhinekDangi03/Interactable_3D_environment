@@ -1,0 +1,15 @@
+# Compiled Executables
+main
+*.exe
+*.out
+
+# Object and Build files
+*.o
+*.a
+
+# VS Code files
+.vscode/
+
+# raylib/GLFW Build Directories
+raylib/build/
+Externals/lib/
